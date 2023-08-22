@@ -1,4 +1,4 @@
-
+/*header and footer or Static always same position and prupose*/
 header nav ul{
     
     list-style: none;
@@ -24,14 +24,6 @@ header nav ul li a {
 
 }
 
-h1{
-    color: black;
-    font-style: initial;
-    font-size: larger;
-    text-align: center;
-}
-
-
 
 footer ul{
     display: flex;
@@ -44,3 +36,5 @@ footer ul li a svg {
     width: 44px;
     height: 44px;
 }
+
+/*Multi Use and Not always same Position
